@@ -1,0 +1,12 @@
+main {
+  min-height: 80vh;
+}
+/* anchor tag styling */
+a { text-decoration: none;}
+/* styling the ratings component */
+h3 {
+  padding: 1rem 0;
+}
+.rating span {
+  margin: 0.1rem;
+}
